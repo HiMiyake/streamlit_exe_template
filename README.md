@@ -65,6 +65,6 @@ pip install -r requirements.txt
 ## 実行ファイル化の方法
 ターミナルで以下のコマンドを実行。
 ```
-pyinstaller your_app.spec --clean
+pyinstaller streamlit.spec --clean
 ```
 
