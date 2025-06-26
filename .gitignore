@@ -1,0 +1,10 @@
+.vscode/
+build/
+data/
+dist/
+env/
+logs/
+*.exe
+*.zip
+*.db
+*.pyc
