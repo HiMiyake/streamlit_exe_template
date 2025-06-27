@@ -30,7 +30,7 @@ a = Analysis(
 
         ("streamlit_exe", "./streamlit_exe"),
     ],
-    hiddenimports=["plotly","numpy","numpy.core.multiarray","pandas", "polars", "sqlalchemy","tkinter", "openpyxl","python_calamine"],
+    hiddenimports=[],
     hookspath=["./hooks"],
     hooksconfig={},
     runtime_hooks=[],
